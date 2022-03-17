@@ -78,6 +78,12 @@ class Netadmin_page(BasePage):
         except TimeoutException:
             pass
 
+    def sdadsjdhdjhd(self):
+        adadasdasdasdsadsadd
+        adasdasdsadsad
+        adadsadsd
+
+
 
     def wait_button_comments(self):
         WebDriverWait(self.context.browser, 80).until(
